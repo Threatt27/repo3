@@ -2,7 +2,8 @@ library(tidyverse)
 library(ggplot2)
 library(dplyr)
 mpg
-# My name is Dennis P.
+# My name is Alexis Threatt.
+# I am not sure what to cook for dinner tonight. 
 #The data source is the mpg data table
 # This is my coding that generates Boxplots for transmission types
 ggplot(data = mpg) +
